@@ -19,7 +19,9 @@ module.exports = {
             })
             .exec(function(err, tour) {
                 if (err) return res.negotiate(err);
-                return res.json({ result: 'ok' });
+                return res.json({
+                    result: 'ok'
+                });
             })
     },
 
@@ -29,7 +31,9 @@ module.exports = {
             })
             .exec(function(err, tours) {
                 if (err) return res.negotiate(err);
-                return res.json({ result: tours });
+                return res.json({
+                    result: tours
+                });
             })
     },
 
