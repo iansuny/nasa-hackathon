@@ -26,9 +26,3 @@ module.exports = {
 
     }
 };
-
-{
-    userID: "norman",
-    data: "2017/04/27",
-    location: ""
-}

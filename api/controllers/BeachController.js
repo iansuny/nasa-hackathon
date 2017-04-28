@@ -36,6 +36,7 @@ module.exports = {
             })
     },
     getBeachDangerLevelinMonth: function(req, res) {
+        var year = req.param('year')
         var month = req.param('month')
         var lat = req.param('lat')
         var lon = req.param('lon')
