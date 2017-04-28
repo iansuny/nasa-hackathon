@@ -16,6 +16,5 @@ module.exports.bootstrap = function(cb) {
 
     var service = require('../api/services/ToolService');
     service.setInitBeachLocation();
-    console.log("done")
     cb();
 };
