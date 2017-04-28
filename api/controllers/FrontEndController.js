@@ -16,9 +16,9 @@ module.exports = {
     actionIO: function(req, res) {
         action = req.param('action');
         switch (action) {
-            case 'news':
+            case 'map':
                 return res.view('blank', {
-                    layout: 'news',
+                    layout: 'map',
                 })
             default:
                 return res.redirect('/');
