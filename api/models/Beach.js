@@ -7,18 +7,18 @@
 
 module.exports = {
 
-  attributes: {
-    lat: {
-      type: 'float',
-      required: true
-    },
-    lon: {
-      type: 'float',
-      required: true
-    },
-    name: {
-      type: 'string',
-      required: true
+    attributes: {
+        lat: {
+            type: 'string',
+            required: true
+        },
+        lon: {
+            type: 'string',
+            required: true
+        },
+        name: {
+            type: 'string',
+            required: true
+        }
     }
-  }
 };

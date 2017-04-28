@@ -1,5 +1,5 @@
-var Monent = require('monent')
-
+var Moment = require('moment')
+var Promise = require('bluebird')
 module.exports = {
 
     getDangerLevelinHour: function(lat, lon, time) {
@@ -22,8 +22,8 @@ module.exports = {
 
     },
     getDangerLevelinMonth: function(lat, lon, year, month) {
-        var beginTimeStamp = Monent.utc(year + "-" + month).valueOf()
-        var endTimeStamp = Monent.utc(year + "-" + month).valueOf() - 1000 * 60 * 60 * 24
+        var beginTimeStamp = Moment.utc(year + "-" + month).valueOf()
+        var endTimeStamp = Moment.utc(year + "-" + month).valueOf() - 1000 * 60 * 60 * 24
         var results = [];
         return new Promise(function(resolve, reject) {
             for (var i = beginTimeStamp; i <= endTimeStamp; i += 1000 * 60 * 60 * 24) {
@@ -50,7 +50,22 @@ module.exports = {
 
     },
     setInitBeachLocation: function() {
-        var beachLoactionJson = require('')
+        var beachLoactionJson = require('../../assets/json/beach.json')
+        return Promise.map(beachLoactionJson, function(item) {
+            return new Promise(function(resolve, reject) {
+                Beach.create({
+                    lat: item.lat,
+                    lon: item.lon,
+                    name: item.name
+                }).exec(function(err, beach) {
+                    if (err) {
+                        reject()
+                    } else {
+                        resolve()
+                    }
+                })
+            })
+        })
     }
 
 }
