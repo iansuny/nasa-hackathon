@@ -5,7 +5,7 @@ module.exports = {
 
         return new Promise(function(resolve, reject) {
 
-            Beach.find({
+            Beach.findOne({
                 name: name
             }).exec(function(err, beachInform) {
                 if (err) {
@@ -23,7 +23,7 @@ module.exports = {
     },
     getDangerLevelinHour: function(lat, lon, time) {
         return new Promise(function(resolve, reject) {
-            Inform.find({
+            Inform.findOne({
                 lat: lat,
                 lon: lon,
                 time: time
@@ -46,10 +46,10 @@ module.exports = {
         var results = [];
         return new Promise(function(resolve, reject) {
             for (var i = beginTimeStamp; i <= endTimeStamp; i += 1000 * 60 * 60 * 24) {
-                Inform.find({
+                Inform.findOne({
                     lat: lat,
                     lon: lon,
-                    time: time
+                    time: i
                 }).exec(
                     function(err, inform) {
                         if (err)
@@ -57,7 +57,20 @@ module.exports = {
                         else {
                             results.push(inform)
                             if (i == endTimeStamp) {
-                                resolve(results)
+                                Beach.findOne({
+                                    lat: lat,
+                                    lon: lon
+                                }).exec(function(err, beach) {
+                                    if (err)
+                                        reject(err)
+                                    resolve({
+                                        monthInfo: results,
+                                        picture: beach.picture,
+                                        name: beach.name
+                                    })
+
+                                })
+
                             }
                         }
                     }
@@ -93,6 +106,28 @@ module.exports = {
         day.setSeconds(0);
         day.setMilliseconds(0)
         return day;
+    },
+    changeAllDataToDanger: function(year, month) {
+        var beginTimeStamp = Moment.utc(year + "-" + month).valueOf()
+        var endTimeStamp = Moment.utc(year + "-" + month).valueOf() - 1000 * 60 * 60 * 24
+        return new Promise(function(resolve, reject) {
+            for (var i = beginTimeStamp; i <= endTimeStamp; i += 1000 * 60 * 60 * 24) {
+                Inform.update({
+                    time: i
+                }, {
+                    dangerLevel: 'high',
+                    SeaSpeedLeveL: 'high'
+                }).exec(function(err, inform) {
+                        if (i == endTimeStamp) {
+                            resolve()
+                        }
+                    }
+
+                )
+
+            }
+
+        })
     }
 
 }
