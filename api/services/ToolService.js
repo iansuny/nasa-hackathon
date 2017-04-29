@@ -85,6 +85,14 @@ module.exports = {
                 })
             })
         })
+    },
+    formatTimeStampMinus: function(timestamp) {
+
+        var day = new Date(timestamp)
+        day.setMinutes(0);
+        day.setSeconds(0);
+        day.setMilliseconds(0)
+        return day;
     }
 
 }

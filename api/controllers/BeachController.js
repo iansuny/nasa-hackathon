@@ -8,6 +8,8 @@ var Promise = require('bluebird')
 module.exports = {
     getAllBeachDangerLevel: function(req, res) {
         var time = req.param('time')
+        var day = ToolService.formatTimeStampMinus(time);
+        time = day.valueOf();
         var result = [];
         Beach.find({}).exec(
             function(err, beachs) {
@@ -33,6 +35,8 @@ module.exports = {
     },
     getBeachDangerLevelinHour: function(req, res) {
         var time = req.param('time')
+        var day = ToolService.formatTimeStampMinus(time);
+        time = day.valueOf();
         var lat = req.param('lat')
         var lon = req.param('lon')
         ToolService.getDangerLevelinHour(lat, lon, time).then(
@@ -47,7 +51,7 @@ module.exports = {
         var month = req.param('month')
         var lat = req.param('lat')
         var lon = req.param('lon')
-        ToolService.getDangerLevelinMonth(lat, lon, month).then(
+        ToolService.getDangerLevelinMonth(lat, lon, year, month).then(
             function(resolve) {
                 return res.json({
                     result: resolve
