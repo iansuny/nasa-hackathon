@@ -21,8 +21,14 @@ module.exports = {
                     layout: 'map',
                 })
             case 'date':
+                console.log(req.param('name'));
                 return res.view('blank', {
                     layout: 'date',
+                    name: "123"
+                })
+            case 'mytrip':
+                return res.view('blank', {
+                    layout: 'mytrip',
                 })
             default:
                 return res.redirect('/');

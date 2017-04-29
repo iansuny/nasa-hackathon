@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Map</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<%- partial('partial/header-script') %>
+		<script src='https://api.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.js'></script>
+
+		<script>
+			var n = angular.module('nasa', []);
+		</script>
+
+		<script>
+			n.controller('tripCtrl', function($scope, $rootScope, $http) {
+
+			})
+          </script>
+	</head>
+
+	<body ng-app="nasa" ng-controller="tripCtrl" ng-init="initialize()">
+
+		<header id="header">
+			<a href="#menu"></a>
+			<a><span class="icon fa-chevron-left"></span><span ng-bind="dateStr"></span><span class="icon fa-chevron-right"></span></a>
+			<a>  </a>
+		</header>
+		
+		<%- partial('partial/nav') %>
+
+		<section class="wrapper style1">
+			<div class="inner">
+				<section class="features">
+					<section ng-repeat="result in list" ng-click="toDate()">
+						<span class="image left">
+							<img src="/images/pic02.jpg" alt="" />
+						</span>
+						<p>{{result.name}} <br/>3 km from here</p>
+					</section>
+				</section>
+			</div>
+		</section>
+
+		<%- partial('partial/footer-script') %>
+			
+<script>
+  
+</script>
+</body>
+</html>
