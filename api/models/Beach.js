@@ -19,6 +19,10 @@ module.exports = {
         name: {
             type: 'string',
             required: true
+        },
+        picture: {
+            type: 'string',
+            required: true
         }
     }
 };

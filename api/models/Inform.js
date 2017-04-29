@@ -32,6 +32,7 @@ module.exports = {
         },
         UVLevel: {
             type: 'string',
+            enum: ['none', 'mid', 'high'],
             required: true
         },
         UVI: {
@@ -40,6 +41,7 @@ module.exports = {
         },
         SeaSpeedLeveL: {
             type: 'string',
+            enum: ['none', 'mid', 'high'],
             required: true
         },
         SeaSpeed: {
@@ -48,6 +50,7 @@ module.exports = {
         },
         HABLevel: {
             type: 'string',
+            enum: ['none', 'mid', 'high'],
             required: true
         },
         weatherInfo: {
