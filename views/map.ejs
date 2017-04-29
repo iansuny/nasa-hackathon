@@ -54,6 +54,21 @@
 			.mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
 			border-bottom-color: #91c949;
 			}
+			#modal {
+				position: absolute;
+				width: 100%;
+				height:100%;
+				padding: 50;
+				z-index: 8;
+			}
+			#modal #alert  {
+				margin: auto;
+				margin-top: 40%;
+				width: 80%;
+				height: 50%;
+				background-color: white;
+				border-radius: 20px
+			}
 		</style>
 
 		<script>
@@ -192,14 +207,18 @@
 			<a><span class="icon fa-chevron-left"></span><span ng-bind="dateStr"></span><span class="icon fa-chevron-right"></span></a>
 			<a>  </a>
 		</header>
+		<div id='modal' >
+			<div id='alert'>
+				
+			</div>
+		</div>
 		
 		<%- partial('partial/nav') %>
 
+		
 		<section id="three" class="wrapper style4">
 			<div id='map' style='width: 100%; height: 500px;'></div>
 		</section>
-
-
 		<section id="three" class="wrapper style3">
 			<div class="inner">
 				<section class="features">
