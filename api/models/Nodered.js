@@ -8,7 +8,9 @@
 module.exports = {
 
   attributes: {
-
+    warn: {
+      type: "string",
+      required: true
+    }
   }
 };
-
