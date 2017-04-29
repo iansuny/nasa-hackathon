@@ -20,6 +20,10 @@ module.exports = {
                 return res.view('blank', {
                     layout: 'map',
                 })
+            case 'date':
+                return res.view('blank', {
+                    layout: 'date',
+                })
             default:
                 return res.redirect('/');
         }
