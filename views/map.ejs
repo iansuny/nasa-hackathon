@@ -113,10 +113,11 @@
 						time: timestamp,
 					})
 					.success(function(response, status) {
-						console.log(response);
-						var beaches = featureJSON(Object.keys(response).map(function(key){
-							return response[key]
+						var res = response.result;
+						var beaches = featureJSON(Object.keys(res).map(function(key){
+							return res[key];
 						}));
+						console.log(beaches);
 						map.addLayer({
 							id: 'locations',
 							type: 'symbol',
