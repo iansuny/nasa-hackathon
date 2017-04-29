@@ -5,6 +5,12 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<%- partial('partial/header-script') %>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Roboto:400|Roboto+Condensed:400|Fjalla+One:400'>
+<link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
 	</head>
 	<body>
 
@@ -17,43 +23,15 @@
 		<%- partial('partial/nav') %>
 
 		<section id="three" class="wrapper style1 special">
-			<div class="inner">
-				<header class="major">
-					<h2>Tempus feugiat</h2>
-					<p>Ipsum sed elementum amet</p>
-				</header>
-				<section class="features">
-					<section>
-						<span class="icon fa-cubes style3"></span>
-						<h4>Justo magna</h4>
-						<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
-					</section>
-					<section>
-						<span class="icon fa-diamond style4"></span>
-						<h4>Sed trisique</h4>
-						<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
-					</section>
-					<section>
-						<span class="icon fa-camera-retro style2"></span>
-						<h4>Lacus pretium</h4>
-						<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
-					</section>
-					<section>
-						<span class="icon fa-cloud style3"></span>
-						<h4>Dui volutpat</h4>
-						<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
-					</section>
-				</section>
-				<footer class="major">
-					<ul class="actions">
-						<li><a href="#" class="button">Learn More</a></li>
-					</ul>
-				</footer>
-			</div>
+			<div class="calendar-wrapper">
+			  <button id="btnPrev" type="button">Prev</button>
+				  <button id="btnNext" type="button">Next</button>
+			  <div id="divCal"></div>
+			</div>		
 		</section>
 
 		<%- partial('partial/footer-script') %>
 			
-
+  <script src="js/calendar.js"></script>
 	</body>
 </html>
