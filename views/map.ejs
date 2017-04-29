@@ -5,63 +5,187 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<%- partial('partial/header-script') %>
-		  <script src='https://api.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.js'></script>
-		  <style>
-.mapboxgl-popup-close-button {
-  display: none;
-}
+		<script src='https://api.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.js'></script>
+		<style>
+			.mapboxgl-popup-close-button {
+			display: none;
+			}
 
-.mapboxgl-popup-content {
-  font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
-  padding: 0;
-  width: 180px;
-}
+			.mapboxgl-popup-content {
+			font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+			padding: 0;
+			width: 180px;
+			}
 
-.mapboxgl-popup-content-wrapper {
-  padding: 1%;
-}
+			.mapboxgl-popup-content-wrapper {
+			padding: 1%;
+			}
 
-.mapboxgl-popup-content h3 {
-  background: #91c949;
-  color: #fff;
-  margin: 0;
-  display: block;
-  padding: 10px;
-  border-radius: 3px 3px 0 0;
-  font-weight: 700;
-  margin-top: -15px;
-}
+			.mapboxgl-popup-content h3 {
+			background: #91c949;
+			color: #fff;
+			margin: 0;
+			display: block;
+			padding: 10px;
+			border-radius: 3px 3px 0 0;
+			font-weight: 700;
+			margin-top: -15px;
+			}
 
-.mapboxgl-popup-content h4 {
-  margin: 0;
-  display: block;
-  padding: 10px;
-  font-weight: 400;
-}
+			.mapboxgl-popup-content h4 {
+			margin: 0;
+			display: block;
+			padding: 10px;
+			font-weight: 400;
+			}
 
-.mapboxgl-popup-content div {
-  padding: 10px;
-}
+			.mapboxgl-popup-content div {
+			padding: 10px;
+			}
 
-.mapboxgl-container .leaflet-marker-icon {
-  cursor: pointer;
-}
+			.mapboxgl-container .leaflet-marker-icon {
+			cursor: pointer;
+			}
 
-.mapboxgl-popup-anchor-top > .mapboxgl-popup-content {
-  margin-top: 15px;
-}
+			.mapboxgl-popup-anchor-top > .mapboxgl-popup-content {
+			margin-top: 15px;
+			}
 
-.mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
-  border-bottom-color: #91c949;
-}
-</style>
+			.mapboxgl-popup-anchor-top > .mapboxgl-popup-tip {
+			border-bottom-color: #91c949;
+			}
+		</style>
+
+		<script>
+			var n = angular.module('nasa', []);
+		</script>
+
+		<script>
+			n.controller('mapCtrl', function($scope, $rootScope, $http) {
+
+				mapboxgl.accessToken = 'pk.eyJ1IjoiYjAxOTAxMTMiLCJhIjoiY2oyMGxiY2NsMDUwbTJxbnV5dXVkZ3NvMSJ9.Jl1yhcZLo01_XCu0flCJKA';
+				var map = new mapboxgl.Map({
+				container: 'map',
+				center: [-83, 28],
+				style: 'mapbox://styles/b0190113/cj223x958002a2rpe0li5ay36',
+				zoom: 1,
+				hash: true
+				});
+
+				function flyToLocation (feature) {
+					map.flyTo({
+					center: feature.geometry.coordinates,
+					zoom: 12
+					});
+				}
+					function createPopUp (feature) {
+						var popUps = $('.mapboxgl-popup');
+						// Check if there is already a popup on the map and if so, remove it
+						if (popUps[0]) popUps[0].remove();
+
+						var popup = new mapboxgl.Popup({ closeOnClick: false })
+						.setLngLat(feature.geometry.coordinates)
+						.setHTML('<h3>position</h3>' + '<h4>' + feature.properties.title+'</h4>')
+						.addTo(map);
+					}
+
+				map.on('click', function(e){
+						// Query all the rendered points in the view
+					var features = map.queryRenderedFeatures(e.point, { layers: ['locations'] });
+					if (features.length) {
+					var clickedPoint = features[0];
+					// 1. Fly to the point
+					flyToLocation(clickedPoint);
+					// 2. Close all other popups and display popup for clicked store
+					createPopUp(clickedPoint);
+					}
+				});
+
+				$scope.initialize = function() {
+					const dateTime = new Date();
+					const timestamp = Math.floor(dateTime / 1000);
+					$scope.dateStr = date2str(dateTime)
+					$scope.getMapData(timestamp)
+				}
+
+				$scope.getMapData = function(timestamp) {
+					$http.post('/beach/getAllBeachDangerLevel', {
+						time: timestamp,
+					})
+					.success(function(response, status) {
+						console.log(response);
+						var beaches = featureJSON(Object.keys(response).map(function(key){
+							return response[key]
+						}));
+						map.addLayer({
+							id: 'locations',
+							type: 'symbol',
+							// Add a GeoJSON source containing place coordinates and information.
+							source: {
+								type: 'geojson',
+								data: beaches
+							},
+							layout: {
+								'icon-image': 'marker-11g',
+								'icon-size': 3,
+								'icon-allow-overlap': true,
+							}
+						});
+					})
+					.error(function(response, status) {
+						console.log(response);
+					})
+				}
+
+				function featureJSON (feature) {
+					return {
+					"features": feature.map( function (f) {
+						return {
+							"type": "Feature",
+							"properties": {
+							"title": f.name,
+							"description": "some description"
+							},
+							"geometry": {
+							"coordinates": [
+								f.lon,
+								f.lat
+							],
+							"type": "Point"
+							}
+						}
+					}),
+					"type": "FeatureCollection"
+					};
+				}
+
+
+
+				 function date2str(date){
+					if (!date) {
+						return undefined;
+					}
+					var year = date.getFullYear();
+					var month = (date.getMonth()+1);
+					if (month < 10) {
+						month = '0' + month;
+					}
+					var day = date.getDate();
+					if (day < 10) {
+						day = '0' + day;
+					}
+					return month + "/" + day;
+				};
+			})
+          </script>
 	</head>
-	<body>
+
+	<body ng-app="nasa" ng-controller="mapCtrl" ng-init="initialize()">
 
 		<header id="header">
 			<a href="#menu"></a>
-			<a><span class="icon fa-chevron-left"></span>{{date}}<span class="icon fa-chevron-right"></span></a>
-			<a href="/date" class="icon fa-chevron-right"></a>
+			<a><span class="icon fa-chevron-left"></span><span ng-bind="dateStr"></span><span class="icon fa-chevron-right"></span></a>
+			<a>  </a>
 		</header>
 		
 		<%- partial('partial/nav') %>
@@ -80,8 +204,10 @@
 			<div class="inner">
 				<section class="features">
 					<section>
-						<h4>Siesta Key</h4>
-						<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
+						<span class="image left">
+							<img src="images/pic02.jpg" alt="" />
+						</span>
+						<p>一個海灘 <br/>3 km from here</p>
 					</section>
 					<section>
 						<span class="icon fa-diamond style4"></span>
@@ -110,84 +236,7 @@
 		<%- partial('partial/footer-script') %>
 			
 <script>
-  mapboxgl.accessToken = 'pk.eyJ1IjoiYjAxOTAxMTMiLCJhIjoiY2oyMGxiY2NsMDUwbTJxbnV5dXVkZ3NvMSJ9.Jl1yhcZLo01_XCu0flCJKA';
-  var map = new mapboxgl.Map({
-  container: 'map',
-  center: [-83, 28],
-  style: 'mapbox://styles/b0190113/cj223x958002a2rpe0li5ay36',
-  zoom: 6,
-  hash: true
-});
-
-  map.on('load', function(e) {
-  // Add the data to your map as a layer
-	map.addLayer({
-	  id: 'locations',
-	  type: 'symbol',
-	  // Add a GeoJSON source containing place coordinates and information.
-	  source: {
-		type: 'geojson',
-		data: beaches
-	  },
-	  layout: {
-		'icon-image': 'marker-11g',
-		'icon-size': 3,
-		'icon-allow-overlap': true,
-	  }
-	});
-  });
-
-  function flyToLocation (feature) {
-	map.flyTo({
-	  center: feature.geometry.coordinates,
-	  zoom: 12
-	});
-  }
-	function createPopUp (feature) {
-		var popUps = $('.mapboxgl-popup');
-		// Check if there is already a popup on the map and if so, remove it
-		if (popUps[0]) popUps[0].remove();
-
-		var popup = new mapboxgl.Popup({ closeOnClick: false })
-		  .setLngLat(feature.geometry.coordinates)
-		  .setHTML('<h3>position</h3>' + '<h4>' + feature.properties.title+'</h4>')
-		  .addTo(map);
-	}
-
-  map.on('click', function(e){
-		// Query all the rendered points in the view
-	var features = map.queryRenderedFeatures(e.point, { layers: ['locations'] });
-	if (features.length) {
-	  var clickedPoint = features[0];
-	  // 1. Fly to the point
-	  flyToLocation(clickedPoint);
-	  // 2. Close all other popups and display popup for clicked store
-	  createPopUp(clickedPoint);
-	}
-  });
+  
 </script>
-<script>
-  function featureJSON (feature) {
-  	return {
-	  "features": feature.map( function (f) {
-		  return {
-			"type": "Feature",
-			"properties": {
-			  "title": f.name,
-			  "description": "some description"
-			},
-			"geometry": {
-			  "coordinates": [
-				f.lon,
-				b.lat
-			  ],
-			  "type": "Point"
-			}
-		  }
-	  }),
-	  "type": "FeatureCollection"
-	};
-}
-  </script>
 </body>
 </html>
