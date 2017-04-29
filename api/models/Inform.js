@@ -27,6 +27,7 @@ module.exports = {
         },
         dangerLevel: {
             type: 'string',
+            enum: ['none', 'mid', 'high'],
             required: true
         },
         UVLevel: {

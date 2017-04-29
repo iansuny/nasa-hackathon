@@ -1,7 +1,26 @@
 var Moment = require('moment')
 var Promise = require('bluebird')
 module.exports = {
+    getDangerLevelinHourByName: function(name, time) {
 
+        return new Promise(function(resolve, reject) {
+
+            Beach.find({
+                name: name
+            }).exec(function(err, beachInform) {
+                if (err) {
+                    reject();
+                } else {
+                    getDangerLevelinHour(beachInform.lat, beachInform.lon, time).then(function(resolve) {
+                        resolve(resolve)
+                    }, function(reject) {
+                        reject();
+                    })
+                }
+
+            })
+        })
+    },
     getDangerLevelinHour: function(lat, lon, time) {
         return new Promise(function(resolve, reject) {
             Inform.find({
@@ -38,7 +57,7 @@ module.exports = {
                         else {
                             results.push(inform)
                             if (i == endTimeStamp) {
-                                resovle(results)
+                                resolve(results)
                             }
                         }
                     }
