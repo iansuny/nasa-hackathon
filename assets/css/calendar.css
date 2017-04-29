@@ -59,7 +59,7 @@ td.not-current {
 td.today {
   font-weight: 700;
   color: #28283b;
-  font-size: 1.5em;
+  font-size: 1em;
 }
 thead td {
   border: none;
@@ -106,6 +106,3 @@ thead td {
 .high { background-color: #eb4447; }
 .mid { background-color: #ffcc4a; }
 .none { }
-
-
-
