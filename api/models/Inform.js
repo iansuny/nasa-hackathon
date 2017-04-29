@@ -48,14 +48,14 @@ module.exports = {
             type: 'string',
             // required: true
         },
-        SeaSpeedLeveL: {
+        WindSpeedLevel: {
             type: 'string',
             enum: [
                 'none', 'mid', 'high'
             ],
             required: true
         },
-        SeaSpeed: {
+        WindSpeed: {
             type: 'string',
             // required: true
         },
