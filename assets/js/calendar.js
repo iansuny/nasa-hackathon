@@ -1,6 +1,6 @@
 var Cal = function(divId) {
 
-    var data = [{
+    this.data = [{
             year: 2017,
             month: 4,
             day: 15,
@@ -62,13 +62,29 @@ var Cal = function(divId) {
     var thisYear = this.currYear;
     var thisMonth = this.currMonth;
     var thisLvl = this.level;
-    data.map(function(d) {
+    this.data.map(function(d) {
         if (d.year == thisYear && d.month - 1 == thisMonth) {
             thisLvl[d.level].push(d.day);
         }
     });
 };
-
+Cal.prototype.updateDayLevel = function() {
+  this.level = {
+    'high': [0],
+    'mid': [0],
+    'none': [0]
+  };
+  var thisYear = this.currYear;
+  var thisMonth = this.currMonth;
+  var thisLvl = this.level;
+  this.data.map( function(d){
+    if(d.year == thisYear && d.month-1 == thisMonth){
+      thisLvl[d.level].push(d.day);
+    }
+  });
+  console.log(this.level);
+  this.showcurr();
+}
 // Goes to next month
 Cal.prototype.pushDay = function(day, classStr) {
     var toAppend = '';
@@ -89,7 +105,7 @@ Cal.prototype.nextMonth = function() {
     } else {
         this.currMonth = this.currMonth + 1;
     }
-    this.showcurr();
+    this.updateDayLevel();
 };
 
 // Goes to previous month
@@ -100,7 +116,7 @@ Cal.prototype.previousMonth = function() {
     } else {
         this.currMonth = this.currMonth - 1;
     }
-    this.showcurr();
+    this.updateDayLevel();
 };
 
 // Show current month
