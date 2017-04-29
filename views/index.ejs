@@ -8,13 +8,38 @@
 
 		<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-
-
 		<link rel="stylesheet" href="/css/water.css">
 
-	</head>
-	<body class="landing">
+        <script type="text/javascript">
+            var countdownnumber=60;
+            var countdownid;
+            function initial(){ countdownfunc(); }
+            function countdownfunc(){
+                var x=document.getElementById("countdown");
+                x.innerHTML=countdownnumber;
+                if (countdownnumber==0){ 
+                clearTimeout(countdownid);
+            }else{
+                countdownnumber--;
+                if(countdownid){
+                    clearTimeout(countdownid);
+                }
+                countdownid=setTimeout(countdownfunc,1000);
+                }
+            }
+            
+            var located = false;
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+					    console.log(position)
+					});
+            } else {
+                x.innerHTML = "你的瀏覽器可能不支援地理位置！";
+            }	
+        </script>
 
+	</head>
+	<body class="landing" onload="initial();">
 		<header id="header">
 			<a href="#menu"></a>
 			<a class="icon fa-map-pin"> Taipei, Taiwan</a>
@@ -39,7 +64,7 @@
         </div>
         <div class="percent">
             <div class="percent__inner">
-                <div class="percent__num" id="count">90 Min</div>
+                <div class="percent__num" id="count"> 89 Min <span id="countdown"></span> Sec </div>
                 <br />
                 <div class="percent__sign">to Rub sunscreen</div>
             </div>

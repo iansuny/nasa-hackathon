@@ -67,22 +67,17 @@ var Cal = function(divId) {
             thisLvl[d.level].push(d.day);
         }
     });
-    console.log(this.level);
 };
 
 // Goes to next month
 Cal.prototype.pushDay = function(day, classStr) {
     var toAppend = '';
-    // console.log(this.level['high'].indexOf(1));
     var thisLvl = this.level;
     Object.keys(thisLvl).map(function(key) {
-        console.log(classStr, key);
-        console.log(thisLvl[key], typeof(thisLvl[key]), day, typeof(day));
         if (thisLvl[key].indexOf(day) > -1)
             toAppend = '<td class=\"' + classStr + ' ' + key + '\">' + day + '</td>';
     });
     if (!toAppend) toAppend = '<td class=\"' + classStr + '\">' + day + '</td>';
-    console.log(toAppend);
     return toAppend;
 };
 

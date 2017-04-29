@@ -137,8 +137,11 @@
 					})
 				}
 
-				$scope.toDate = function(name) {
-					window.location = '/date?name=' + name;
+				$scope.toDate = function(index) {
+
+					var lat = $scope.list[index].lat;
+					var lon = $scope.list[index].lon;
+					window.location = '/date/'+ lat +"/" + lon;
 				}
 
 				function featureJSON (feature) {
@@ -200,11 +203,11 @@
 		<section id="three" class="wrapper style3">
 			<div class="inner">
 				<section class="features">
-					<section ng-repeat="result in list" ng-click="toDate()">
+					<section ng-repeat="result in list " ng-click="toDate($index)">
 						<span class="image left">
 							<img src="/images/pic02.jpg" alt="" />
 						</span>
-						<p>{{result.name}} <br/>3 km from here</p>
+						<p>{{result.name}} <br/>Risk: High</p>
 					</section>
 				</section>
 			</div>

@@ -16,13 +16,36 @@
 		</script>
 
 		<script>
-			n.controller('mapCtrl', function($scope, $rootScope, $http) {
-				console.log()
+			n.controller('dateCtrl', function($scope, $rootScope, $http) {
+
+				$scope.initialize = function() {
+					$scope.getDateData()
+					
+				}
+
+				$scope.getDateData = function() {
+					$http.post('/beach/getBeachDangerLevelinMonth', {
+						year: '2017',
+						month: '04',
+						lat: '<%= lat %>',
+						lon: '<%= lon %>'
+					})
+					.success(function(response, status) {
+						console.log("123")
+						$scope.list = response.result;
+						console.log($scope.list)
+					})
+					.error(function(response, status) {
+						console.log("123")
+						console.log(response);
+					})
+				}
+				
 			})
 		</script>
 
 	</head>
-	<body>
+	<body ng-app="nasa" ng-controller="dateCtrl" ng-init="initialize()">
 
 		<header id="header">
 			<a href="#menu"></a>
@@ -32,7 +55,7 @@
 		
 		<%- partial('partial/nav') %>
 
-		<section id="three" class="wrapper style4 special">
+		<section id="three" class="wrapper style2 special">
 				<div class="inner">
 					<header class="major">
 						<h2>Tempus feugiat</h2>
