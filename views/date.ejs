@@ -9,34 +9,44 @@
   <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Roboto:400|Roboto+Condensed:400|Fjalla+One:400'>
 <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
 
-      <link rel="stylesheet" href="css/calendar.css">
+      <link rel="stylesheet" href="/css/calendar.css">
+
+	  	<script>
+			var n = angular.module('nasa', []);
+		</script>
+
+		<script>
+			n.controller('mapCtrl', function($scope, $rootScope, $http) {
+				console.log()
+			})
+		</script>
 
 	</head>
 	<body>
 
 		<header id="header">
 			<a href="#menu"></a>
-			<a></a>
+			<a>123</a>
 			<a href="/date" class="icon fa-chevron-right"></a>
 		</header>
 		
 		<%- partial('partial/nav') %>
 
-		
-
-		<section id="one" class="wrapper special">
-			<div class="inner">
-				<header class="major alt style2">
-					<h2>Augue sed pretium</h2>
-				</header>
-				<section class="features style2">
-					<section>
-						<span class="icon fa-cubes style3"></span>
-						<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
+		<section id="three" class="wrapper style4 special">
+				<div class="inner">
+					<header class="major">
+						<h2>Tempus feugiat</h2>
+						<p>Ipsum sed elementum amet</p>
+					</header>
+					<section class="features">
+						<section>
+							<span class="icon fa-cubes style3"></span>
+							<h4>Justo magna</h4>
+							<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
+						</section>
 					</section>
-				</section>
-			</div>
-		</section>
+				</div>
+			</section>
 
 		<section id="three" class="wrapper style1 special">
 			<div class="calendar-wrapper">
@@ -48,6 +58,6 @@
 
 		<%- partial('partial/footer-script') %>
 			
-  <script src="js/calendar.js"></script>
+  <script src="/js/calendar.js"></script>
 	</body>
 </html>

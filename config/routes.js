@@ -42,6 +42,11 @@ module.exports.routes = {
         action: 'actionIO'
     },
 
+    '/date/:lat/:lon': {
+        controller: 'FrontEndController',
+        action: 'dateIO'
+    },
+
     /***************************************************************************
      *                                                                          *
      * Custom routes here...                                                    *

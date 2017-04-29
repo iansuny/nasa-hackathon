@@ -2514,22 +2514,13 @@ header.style2 {
 }
 
 header.style3 {
-    background-color: #6c85ab;
+    background-color: #6cc5e9;
     color: #fff;
 }
 
 header.style4 {
     background-color: #b67e96;
     color: #fff;
-}
-
-header.style1,
-header.style2,
-header.style3,
-header.style4 {
-    background-image: url("images/overlay.png"), url("images/checker-pattern.svg");
-    background-position: center top;
-    background-repeat: repeat;
 }
 
 @media screen and (max-width: 980px) {
@@ -2845,8 +2836,7 @@ table.alt tbody tr td {
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
-    border-bottom: solid 2px;
-    margin-bottom: 2.4em;
+    border-bottom: solid 10px;
 }
 
 .features>section {
@@ -3184,7 +3174,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.style3 {
-    background-color: #6c85ab;
+    background-color: #6cc5e9;
     color: #fff;
 }
 
@@ -3444,7 +3434,7 @@ table.alt tbody tr td {
 }
 
 .wrapper.style4 {
-    background-color: #b67e96;
+    background-color: #1B374A;
     color: #fff;
 }
 
@@ -3701,14 +3691,6 @@ table.alt tbody tr td {
 
 .wrapper.style4 .features>section {
     border-color: rgba(255, 255, 255, 0.075);
-}
-
-.wrapper.style2,
-.wrapper.style3,
-.wrapper.style4 {
-    background-image: url("images/overlay.png"), url("images/checker-pattern.svg");
-    background-position: center top;
-    background-repeat: repeat, repeat;
 }
 
 @media screen and (max-width: 980px) {

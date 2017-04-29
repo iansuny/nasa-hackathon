@@ -20,11 +20,6 @@ module.exports = {
                 return res.view('blank', {
                     layout: 'map',
                 })
-            case 'date':
-                return res.view('blank', {
-                    layout: 'date',
-                    name: "123"
-                })
             case 'mytrip':
                 return res.view('blank', {
                     layout: 'mytrip',
@@ -32,6 +27,17 @@ module.exports = {
             default:
                 return res.redirect('/');
         }
+    },
+
+    dateIO: function(req, res) {
+        lat = req.param('lat');
+        lon = req.param('lon');
+
+        return res.view('blank', {
+            layout: 'date',
+            lat: 'lat',
+            lon: 'lon'
+        })
     },
 
 };
