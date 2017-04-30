@@ -38,13 +38,37 @@
             }	
         </script>
 
+        <script>
+			var n = angular.module('nasa', []);
+		</script>
+
+        <script>
+			n.controller('indexCtrl', function($scope, $rootScope, $http) {
+
+                $scope.viewStage = "none"
+                $scope.initialize = function() {
+					// $scope.viewStage = "warning"
+				}
+
+                $scope.confirm = function() {
+					$scope.viewStage = "none"
+				}
+            })
+        </script>
+
 	</head>
-	<body class="landing" onload="initial();">
+	<body class="landing" onload="initial();" ng-app="nasa" ng-controller="indexCtrl" ng-init="initialize()">
 		<header id="header">
 			<a href="#menu"></a>
 			<a class="icon fa-map-pin"> Taipei, Taiwan</a>
 			<a>  </a>
 		</header>
+
+        <div id='modal' ng-show="viewStage == 'warning'">
+			<div id='alert'>
+				<li><a ng-click="confirm()">OK</a></li>
+			</div>
+		</div>
 
 		<%- partial('partial/nav') %>
 		<!-- Banner -->
@@ -60,7 +84,6 @@
     <div class="page" id="page">
         <div class="tracker">
             <img src="/images/logo.png" alt="">
-            <h1 class"alt">Let's go <br /> to the beach</h1>
         </div>
         <div class="percent">
             <div class="percent__inner">

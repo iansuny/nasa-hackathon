@@ -35,8 +35,8 @@ module.exports = {
 
         return res.view('blank', {
             layout: 'date',
-            lat: 'lat',
-            lon: 'lon'
+            lat: lat,
+            lon: lon
         })
     },
 

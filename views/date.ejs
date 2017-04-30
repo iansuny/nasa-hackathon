@@ -24,20 +24,20 @@
 				}
 
 				$scope.getDateData = function() {
-					$http.post('/beach/getBeachDangerLevelinMonth', {
-						year: '2017',
-						month: '04',
-						lat: '<%= lat %>',
-						lon: '<%= lon %>'
-					})
-					.success(function(response, status) {
-						$scope.list = response.result;
-						console.log($scope.list)
-					})
-					.error(function(response, status) {
-						console.log("123")
-						console.log(response);
-					})
+					// $http.post('/beach/getBeachDangerLevelinMonth', {
+					// 	year: '2017',
+					// 	month: '04',
+					// 	lat: '<%= lat %>',
+					// 	lon: '<%= lon %>'
+					// })
+					// .success(function(response, status) {
+					// 	$scope.list = response.result;
+					// 	console.log($scope.list)
+					// })
+					// .error(function(response, status) {
+					// 	console.log("123")
+					// 	console.log(response);
+					// })
 				}
 				
 			})
@@ -57,14 +57,15 @@
 		<section id="three" class="wrapper style2 special">
 				<div class="inner">
 					<header class="major">
-						<h2>Tempus feugiat</h2>
-						<p>Ipsum sed elementum amet</p>
+						<h2>Pensacola Beach</h2>
+						<p>Sunny, 28°C</p>
 					</header>
 					<section class="features">
 						<section>
-							<span class="icon fa-cubes style3"></span>
-							<h4>Justo magna</h4>
-							<p>Nulla imperdiet, lorem in pretium sed aliquet, lacus dui magna tristique lacus, vel convallis justo lectus in augue. Tempus pellentesque imperdiet et elementum.</p>
+							<span class="icon fa-sun-o style3"></span>
+							<p>Humidity: 10%</p>
+							<p>UV Index:2</p>
+							<p>Wind: E7</p>
 						</section>
 					</section>
 				</div>
