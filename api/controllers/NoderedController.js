@@ -36,6 +36,13 @@ module.exports = {
                     return res.json({result: "ok"})
                 }
             })
+    },
+    getWarn: function (req, res) {
+        Nodered
+            .findOne({})
+            .exec(function (err, res) {
+                return res.json({result: res.warn})
+            })
     }
 
 };

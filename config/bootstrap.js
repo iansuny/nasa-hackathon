@@ -16,15 +16,12 @@ module.exports.bootstrap = function (cb) {
     // waiting on the bootstrap)
 
     var service = require('../api/services/ToolService');
-    service.initLoRaWarn()
 
-    // service.setFakeDate(); service.changeAllDataToDanger("2017", "04");
-    // service.clearInform() console.log("test moment" +
-    // moment.utc("2017-04-11").valueOf()); service
-    // .getDangerLevelinHour("25.939219", "-81.731920",
-    // moment.utc("2017-04-11").valueOf())     .then(function (resolve) {
-    // console.log(resolve);     }) service     .getDangerLevelinHourByName("South
-    // Marco Beach", "1491868800000")     .then(function (resolve) {
-    // console.log(resolve)     }) service.changeAllDataToDanger("2017", "04")
+    // TestService.testAllBeachInform(); TestService.testHourInform();
+    InformService
+        .getDangerLevelinMonth(30.349849, -87.068563, 2017, 4)
+        .then(function (res) {
+            console.log(res)
+        })
     cb();
 };
