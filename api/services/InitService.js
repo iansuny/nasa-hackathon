@@ -1,6 +1,6 @@
 var Moment = require('moment')
 var Promise = require('bluebird')
-
+var informProcess = require('./informProcess');
 module.exports = {
     initLoRaWarn: function () {
         Nodered
@@ -27,6 +27,11 @@ module.exports = {
                     }
                 }
             })
+    },
+    createDataBase: function () {
+        informProcess.processHABData();
+        informProcess.sliceInform();
+        informProcess.appendData();
     },
     setDataBase: function () {
         console.log("insert  db")

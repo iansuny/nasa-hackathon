@@ -1,0 +1,4737 @@
+[{
+    "lat": 27.472966788167483,
+    "lon": -97.35111186449518,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473120000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.483358055222837,
+    "lon": -97.34695775922056,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473379200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.137206614547914,
+    "lon": -97.21011438544593,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473292800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.060789873790572,
+    "lon": -97.3480983367407,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474416000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.127601745314017,
+    "lon": -97.21247258078331,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473897600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.22418771052996,
+    "lon": -97.22262072568411,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474502400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.2663590896448,
+    "lon": -97.22714001595173,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473724800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.133944961055246,
+    "lon": -97.2061893950972,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474329600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.12631409243255,
+    "lon": -97.20347802034625,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474070400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.833796713494838,
+    "lon": -97.43672626780747,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476057600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.72584202781622,
+    "lon": -82.42511902232697,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476316800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.490379615333836,
+    "lon": -82.83237548457878,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475539200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.762917780923985,
+    "lon": -82.72563837360671,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476403200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.127601745314017,
+    "lon": -97.21247258078331,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473638400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 25.740375437677518,
+    "lon": -81.39916590762468,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477353600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.770897868772387,
+    "lon": -82.30002260406228,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476748800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.624013404342566,
+    "lon": -97.3254998805163,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474588800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.483559157849516,
+    "lon": -97.34702079120999,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474243200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.19285178122005,
+    "lon": -97.42338950641263,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475020800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.127601745314017,
+    "lon": -97.21247258078331,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474934400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.188035382485143,
+    "lon": -97.22160421049357,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474848000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.133944961055246,
+    "lon": -97.2061893950972,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473811200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477008000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.483358055222837,
+    "lon": -97.34695775922056,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473206400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.12631409243255,
+    "lon": -97.20347802034625,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475712000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.846710259332895,
+    "lon": -82.8245715277867,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476230400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.770897868772387,
+    "lon": -82.30002260406228,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477267200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.57437519801869,
+    "lon": -82.72588849991516,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476662400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.22418771052996,
+    "lon": -97.22262072568411,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475625600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.363887489656943,
+    "lon": -82.76017788273477,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476576000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.856119029523747,
+    "lon": -82.79868040275704,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475193600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.53831691727592,
+    "lon": -82.71983543159806,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476144000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476921600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.712501264201872,
+    "lon": -82.47014184740028,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476835200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.77586738768996,
+    "lon": -82.40844456958551,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475452800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.267502669099322,
+    "lon": -97.22678983847253,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475107200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478131200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.84483535163905,
+    "lon": -82.27971230811107,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478649600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 25.9704420717195,
+    "lon": -81.76950365402851,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478476800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.61953813633113,
+    "lon": -82.21249523155798,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480291200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.63582939463153,
+    "lon": -82.17635991267613,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479081600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.770897868772387,
+    "lon": -82.30002260406228,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477872000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.772531696913546,
+    "lon": -82.30005562102419,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480464000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479340800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.767529161034098,
+    "lon": -82.35841920863274,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479772800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480550400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.623723257997476,
+    "lon": -82.38403219289674,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478908800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.5105598881974,
+    "lon": -82.0736628496584,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481068800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.84483535163905,
+    "lon": -82.27971230811107,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479254400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481760000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.864865506254265,
+    "lon": -82.31588064395473,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480377600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477526400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481846400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.63582939463153,
+    "lon": -82.17635991267613,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481587200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482969600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.57437519801869,
+    "lon": -82.72588849991516,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478044800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.875420857833983,
+    "lon": -82.3222338647051,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477958400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.709899945630852,
+    "lon": -82.56942618042368,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484697600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478736000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485129600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484265600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.77043759308156,
+    "lon": -82.7774646470013,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482364800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.69228197158673,
+    "lon": -82.62008486212586,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484870400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478217600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483574400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.072180605920867,
+    "lon": -82.51164988965905,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485907200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484006400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.65792359601963,
+    "lon": -82.51431424129855,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485993600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.875420857833983,
+    "lon": -82.3222338647051,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486339200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.41189282609304,
+    "lon": -82.64597798880483,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478563200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.73144486748332,
+    "lon": -82.57826366049026,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486512000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.74878561590454,
+    "lon": -82.76350757072143,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483660800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485475200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478822400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.365269189840433,
+    "lon": -82.58401657637393,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484092800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487203200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486080000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479427200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482105600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.11246102643227,
+    "lon": -82.67363200788891,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488499200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.783204107748016,
+    "lon": -82.31022777816278,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480896000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 25.674742164219687,
+    "lon": -81.51482454203519,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479168000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477612800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.644833960077825,
+    "lon": -82.10612430586397,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479686400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486425600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487721600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.396685116113087,
+    "lon": -82.62255611449856,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485388800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.57437519801869,
+    "lon": -82.72588849991516,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485734400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488153600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.900818733321646,
+    "lon": -82.13009945976728,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481155200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.772694736963093,
+    "lon": -82.78198894085257,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488931200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.875420857833983,
+    "lon": -82.3222338647051,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487635200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481241600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489104000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480982400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484179200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.509972548242644,
+    "lon": -82.8103713293523,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482278400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484524800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490054400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.77300589469065,
+    "lon": -82.7784151282681,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483833600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484611200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.983975890410875,
+    "lon": -82.40366514692131,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490745600000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.875420857833983,
+    "lon": -82.3222338647051,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490659200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.19846062475586,
+    "lon": -82.51230922429562,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485216000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482883200000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484784000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.721679874991924,
+    "lon": -82.76836003146326,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481500800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.641239095158284,
+    "lon": -82.65700357797384,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485302400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486944000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.7825367686725,
+    "lon": -82.32006576562107,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487116800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.02256545358136,
+    "lon": -82.42743719762771,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490572800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.88946397697697,
+    "lon": -82.31156345444084,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487548800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.897762183596093,
+    "lon": -82.32123335731339,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485820800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487030400000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 26.957959701687493,
+    "lon": -82.38109670572446,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490140800000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491264000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.589442835712134,
+    "lon": -82.74594866955792,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487808000000,
+    "HABLevel": "high",
+    "dangerLevel": "high"
+}, {
+    "lat": 27.32465860186819,
+    "lon": -82.59497213047874,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462147200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462406400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.393413457611192,
+    "lon": -82.61658308625495,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1461801600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462233600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1461888000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473811200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.71007399097468,
+    "lon": -82.78626911010603,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474848000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474502400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.133944961055246,
+    "lon": -97.2061893950972,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474243200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.903695191803063,
+    "lon": -97.40883212634515,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474588800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.133944961055246,
+    "lon": -97.2061893950972,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473897600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.133944961055246,
+    "lon": -97.2061893950972,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475712000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.643204091045433,
+    "lon": -97.25998166574308,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473206400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.133944961055246,
+    "lon": -97.2061893950972,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475020800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.22419871582427,
+    "lon": -97.22120140636399,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473379200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.843041400240338,
+    "lon": -82.82558904434148,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476230400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.14414012906748,
+    "lon": -97.21954616651041,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474329600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.780619755229388,
+    "lon": -97.38122813230694,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476057600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 25.96631497953799,
+    "lon": -81.76400086337411,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476403200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.12631409243255,
+    "lon": -97.20347802034625,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475625600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.127601745314017,
+    "lon": -97.21247258078331,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474416000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.770897868772387,
+    "lon": -82.30002260406228,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475539200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.133944961055246,
+    "lon": -97.2061893950972,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474156800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39202575463797,
+    "lon": -82.62240803993122,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473724800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477353600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476662400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.799862552690623,
+    "lon": -82.25620038764318,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476748800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.66834587946663,
+    "lon": -82.26270368461019,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477267200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.77586738768996,
+    "lon": -82.32840399227695,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476835200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.201726323578704,
+    "lon": -97.22448867233484,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473638400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.4853100452455,
+    "lon": -82.68006526979174,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474934400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.774199542301766,
+    "lon": -82.30172346641235,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476316800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.759191934663367,
+    "lon": -82.48848514689415,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475452800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.22418771052996,
+    "lon": -97.22262072568411,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474070400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.127601745314017,
+    "lon": -97.21247258078331,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475193600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.69326546981537,
+    "lon": -82.60337639105835,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477008000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.267502669099322,
+    "lon": -97.22678983847253,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475798400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.393123310187068,
+    "lon": -82.6163929900016,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478563200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.417418669652726,
+    "lon": -81.87900916787218,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478476800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.386615010715435,
+    "lon": -82.60477710205417,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478131200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478649600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 25.9704420717195,
+    "lon": -81.76950365402851,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480291200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.649336242261434,
+    "lon": -82.19777076718984,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480982400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.525653540856972,
+    "lon": -82.07232717230126,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481241600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.841650737364418,
+    "lon": -82.25108079250897,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477958400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.81953248170687,
+    "lon": -82.67317877838359,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477872000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.665151217072143,
+    "lon": -82.69272168624656,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479686400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.48214148188043,
+    "lon": -82.12175222838732,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479772800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483056000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482883200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482796800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.983975890410875,
+    "lon": -82.40366514692131,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481673600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.396685116113087,
+    "lon": -82.62255611449856,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482105600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481500800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.171240825443856,
+    "lon": -82.5588738307783,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482278400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482192000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.324282411580963,
+    "lon": -82.59479604145403,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484438400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.787927459465976,
+    "lon": -82.74311523304758,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484784000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484611200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.48214148188043,
+    "lon": -82.12175222838732,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480464000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.983975890410875,
+    "lon": -82.40366514692131,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480377600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478217600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.726175196132417,
+    "lon": -82.39108576968452,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484697600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.554788309931254,
+    "lon": -82.20257320180677,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479340800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485475200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.487861338770582,
+    "lon": -82.66779204777798,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485388800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.46848856025335,
+    "lon": -82.00840776813709,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486166400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.57437519801869,
+    "lon": -82.72588849991516,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484179200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.81953248170687,
+    "lon": -82.67317877838359,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479081600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485129600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.692264962423657,
+    "lon": -82.62008486212586,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485302400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.82062307729183,
+    "lon": -82.10272258116382,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480550400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.649336242261434,
+    "lon": -82.19777076718984,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486598400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486944000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.48214148188043,
+    "lon": -82.12175222838732,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478044800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487030400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.983975890410875,
+    "lon": -82.40366514692131,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486512000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.683273403920957,
+    "lon": -82.75132639543952,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483833600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.57437519801869,
+    "lon": -82.72588849991516,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487808000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.733796059745885,
+    "lon": -82.3721261575252,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485993600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.27591389072215,
+    "lon": -82.91569472346407,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488326400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488758400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 25.720065141726362,
+    "lon": -81.42687995784281,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479168000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.84034307446462,
+    "lon": -82.68347699950104,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488499200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.645041022383506,
+    "lon": -82.6462981512565,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479254400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.957959701687493,
+    "lon": -82.38109670572446,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488844800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.77294186241614,
+    "lon": -82.77828706371908,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488931200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.30880356391009,
+    "lon": -82.62928952883473,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488240000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.649336242261434,
+    "lon": -82.19777076718984,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481587200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487203200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.266242029310966,
+    "lon": -81.8583987194877,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481760000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489708800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.019884093857907,
+    "lon": -82.15448882450335,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480896000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489017600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481846400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.799862552690623,
+    "lon": -82.25620038764318,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490054400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.897762183596093,
+    "lon": -82.32123335731339,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490659200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.66834587946663,
+    "lon": -82.26270368461019,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490745600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.752738662742225,
+    "lon": -82.41182928512266,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490140800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481068800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.19073070632657,
+    "lon": -82.51211012331827,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484092800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.589442835712134,
+    "lon": -82.74594866955792,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483920000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.875650974124056,
+    "lon": -82.2943197132244,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491177600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.73898168880389,
+    "lon": -82.26130297469346,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490572800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483401600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485734400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.647075053049747,
+    "lon": -82.66085553132397,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485907200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.37499812140391,
+    "lon": -82.59932934002933,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491264000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.638263628901885,
+    "lon": -82.37374297758237,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491091200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.233515396172525,
+    "lon": -82.53143992297512,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485216000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.86444529371088,
+    "lon": -82.3159306690006,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487635200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.44913474835866,
+    "lon": -81.92103047077039,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487721600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.875420857833983,
+    "lon": -82.3222338647051,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485820800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.57437519801869,
+    "lon": -82.72588849991516,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486339200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489968000000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.589442835712134,
+    "lon": -82.74594866955792,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488153600000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.72584202781622,
+    "lon": -82.46430588842975,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487116800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487548800000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.770897868772387,
+    "lon": -82.30002260406228,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489363200000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490918400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 26.44913474835866,
+    "lon": -81.92103047077039,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491350400000,
+    "HABLevel": "mid",
+    "dangerLevel": "mid"
+}, {
+    "lat": 25.720065141726362,
+    "lon": -81.42687995784281,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1461888000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.14171977485186,
+    "lon": -83.15235470063467,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462924800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.8947906344169,
+    "lon": -82.51179396308608,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463184000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.01682950267092,
+    "lon": -82.66390707746586,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462233600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.45878947235375,
+    "lon": -81.44640085403815,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462492800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.039841169442944,
+    "lon": -82.66190606376155,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463616000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.313640015774006,
+    "lon": -82.57269383670602,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462665600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.84193996964576,
+    "lon": -81.65414517205129,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1461801600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.14171977485186,
+    "lon": -83.15235470063467,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464739200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.972139846992853,
+    "lon": -84.58488092963535,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465776000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463961600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.018692575070077,
+    "lon": -81.02844496893785,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464652800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.610227415661825,
+    "lon": -80.02501327124179,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465862400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.328473578068632,
+    "lon": -81.86350130653793,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1461715200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463529600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.85697759231167,
+    "lon": -81.68007831876689,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463443200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.921151998114873,
+    "lon": -82.52896466838295,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464307200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.770897868772387,
+    "lon": -82.30002260406228,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465344000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.396685116113087,
+    "lon": -82.62255611449856,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466035200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.57510556800461,
+    "lon": -83.04743450990333,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466553600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.142343132623775,
+    "lon": -80.63592897993203,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464220800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.293736883391045,
+    "lon": -80.69617652199025,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465257600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.65345920504945,
+    "lon": -83.4894255811201,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465430400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.584950516506087,
+    "lon": -84.58838270550628,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465689600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.083500259591162,
+    "lon": -83.22306054503613,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467763200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.84193996964576,
+    "lon": -81.65414517205129,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464566400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.98529264317712,
+    "lon": -82.83899584080054,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466812800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466294400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.43705645481818,
+    "lon": -86.90715822583122,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468972800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.99814607381779,
+    "lon": -83.31873904987728,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467158400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.474437533148468,
+    "lon": -82.61697228456478,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467504000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.83203582001069,
+    "lon": -82.6207852170843,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468368000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.56647515024371,
+    "lon": -82.82232038669491,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468627200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468108800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.90477269530216,
+    "lon": -82.5117299308115,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469318400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.798514954896437,
+    "lon": -85.58994045268287,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470355200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.904798708110143,
+    "lon": -82.51178495836197,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462579200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.149669889704345,
+    "lon": -80.16752151638775,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469059200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.071540238985882,
+    "lon": -82.961190788061,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464998400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462320000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.720065141726362,
+    "lon": -81.42687995784281,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463097600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.720065141726362,
+    "lon": -81.42687995784281,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464048000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.442628365393972,
+    "lon": -82.80831328536917,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471046400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471392000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.068662737108657,
+    "lon": -82.86726016976047,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464912000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.13765379815282,
+    "lon": -82.49468128727398,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470009600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.209767271482583,
+    "lon": -83.1221393819372,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472083200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.018692575070077,
+    "lon": -81.02844496893785,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469404800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.8947906344169,
+    "lon": -82.51179396308608,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462060800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.322667592093996,
+    "lon": -82.59222974041512,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1461974400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463011200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.217931452794616,
+    "lon": -94.33782525747824,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472256000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.98421296774409,
+    "lon": -82.59147035568681,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471996800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470614400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.198768653375083,
+    "lon": -87.05880210290691,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465516800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.81953248170687,
+    "lon": -82.67317877838359,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472428800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.84193996964576,
+    "lon": -81.65414517205129,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469750400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471737600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.983975890410875,
+    "lon": -82.40366514692131,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462406400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.94701611113046,
+    "lon": -82.60409875768437,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462838400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.565974896547843,
+    "lon": -82.84841761685587,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464393600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.821486472299686,
+    "lon": -82.67467653753681,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472169600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.87015427248074,
+    "lon": -81.706091506635,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468454400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.393680593082642,
+    "lon": -82.62105235255568,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462752000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.76474562239566,
+    "lon": -85.40211523281997,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468540800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.31271559042598,
+    "lon": -81.86527220395226,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1462147200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.894767622464148,
+    "lon": -82.5117299308115,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466208000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.582123039674777,
+    "lon": -86.05445894369564,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465603200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.02608419442565,
+    "lon": -82.87131222329407,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471651200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.65187635912858,
+    "lon": -83.75746046316245,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473897600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.895348960708255,
+    "lon": -81.1284866850402,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464134400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.753032726164413,
+    "lon": -80.84587541319713,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464825600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465171200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463270400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.460540531113388,
+    "lon": -81.92833417386653,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465084800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.740375437677518,
+    "lon": -81.39916590762468,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471910400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.39326338139454,
+    "lon": -82.62126546076175,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463702400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.581351776541034,
+    "lon": -82.0067419233191,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466380800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.819573416886335,
+    "lon": -85.42794832944385,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466121600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.876925578030306,
+    "lon": -83.34158363126963,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467244800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.971085440588805,
+    "lon": -81.48050714475829,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467849600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.79353538785906,
+    "lon": -82.98273571099244,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466985600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.14171977485186,
+    "lon": -83.15235470063467,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474588800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.85697759231167,
+    "lon": -81.68007831876689,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473379200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.653959457666286,
+    "lon": -83.5396510433354,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474934400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.10947647138851,
+    "lon": -82.94074742397711,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475107200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.21094182421807,
+    "lon": -85.70797829273428,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474070400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.076326665803933,
+    "lon": -82.93607805749285,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474761600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.105891653509815,
+    "lon": -82.02136433594622,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473724800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475366400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.07986145755773,
+    "lon": -82.71693396059376,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476316800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.009318738348124,
+    "lon": -82.40177418831789,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474848000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.451202625987264,
+    "lon": -81.66059244010366,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469232000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.82062307729183,
+    "lon": -82.10272258116382,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467676800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.696553222337506,
+    "lon": -81.4653994859491,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468281600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467417600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475971200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.058087546874336,
+    "lon": -80.57615667796772,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467936000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.778455572143443,
+    "lon": -85.42440653353621,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468195200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.81953248170687,
+    "lon": -82.67317877838359,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468800000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476230400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.511859589768953,
+    "lon": -81.349540750276,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474502400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.953005189204614,
+    "lon": -80.09480465219367,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475884800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.410208056684173,
+    "lon": -81.30621878755278,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469664000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.7445823996477,
+    "lon": -85.33403271757804,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469923200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.792404857379704,
+    "lon": -81.08728279635517,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472688000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.38119513597389,
+    "lon": -86.56153300854947,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469145600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.068334741581808,
+    "lon": -80.42076990343675,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474329600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468886400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.542763128513304,
+    "lon": -83.55619242902326,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467331200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.90467264413132,
+    "lon": -82.5117299308115,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469836800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.346968912317692,
+    "lon": -82.58277694796813,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469491200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.983975890410875,
+    "lon": -82.40366514692131,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472601600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.35452174143717,
+    "lon": -82.86222961942366,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476576000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.14171977485186,
+    "lon": -83.15235470063467,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475539200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 23.40837621407206,
+    "lon": -87.18993458140469,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470528000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.827692747020812,
+    "lon": -81.64240922183566,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470960000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471132800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.860076078580903,
+    "lon": -80.07503863219449,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466467200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.371272233111647,
+    "lon": -82.60695820700269,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475625600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.17188027723606,
+    "lon": -88.67322054356352,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470700800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.143397582138526,
+    "lon": -81.383237833747,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471478400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.116872305279845,
+    "lon": -80.14950238156506,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473033600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.65345920504945,
+    "lon": -83.4894255811201,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471564800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.389448405194102,
+    "lon": -80.65740986950993,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470441600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472342400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476662400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.672955173864217,
+    "lon": -82.78106647296403,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477267200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.260447964852478,
+    "lon": -85.7924881352646,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476921600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.12631409243255,
+    "lon": -97.20347802034625,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476748800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.973549689886696,
+    "lon": -80.68162614607664,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472860800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472774400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472947200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.491256102427634,
+    "lon": -81.5282313384943,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471305600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.181186782290496,
+    "lon": -87.91260094224081,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473465600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473638400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.611917272717665,
+    "lon": -96.99243803267251,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1472515200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.43705645481818,
+    "lon": -86.90715822583122,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471824000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474156800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.68599478368112,
+    "lon": -93.35215856607698,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473206400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.55406886009727,
+    "lon": -89.82653822678546,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473292800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.720065141726362,
+    "lon": -81.42687995784281,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473120000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.45075740092092,
+    "lon": -81.54920297073136,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474675200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.953005189204614,
+    "lon": -80.09480465219367,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475280000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.327680134061634,
+    "lon": -82.61911436976172,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474416000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1474243200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.85697759231167,
+    "lon": -81.68007831876689,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475193600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.881897183739518,
+    "lon": -82.65380195561524,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475020800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477180800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.45815014881457,
+    "lon": -81.44637283958086,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477094400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.235596494140026,
+    "lon": -97.07504290937072,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473984000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.001901063073838,
+    "lon": -81.41417351634212,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473811200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.15796017810588,
+    "lon": -80.80728585002663,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477008000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.785122079444612,
+    "lon": -81.74520833659449,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477353600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.50591048862083,
+    "lon": -80.36128474696217,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476835200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.681249378263892,
+    "lon": -82.77638309817206,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476403200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.142703358222796,
+    "lon": -82.58486700754901,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476489600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.67757451530262,
+    "lon": -97.26189163407977,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476144000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.201726323578704,
+    "lon": -97.22448867233484,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475798400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.08364428990738,
+    "lon": -81.36935079361041,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1471219200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.9704420717195,
+    "lon": -81.76950365402851,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475712000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1476057600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.772531696913546,
+    "lon": -82.53350797088835,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1475452800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.52240489322879,
+    "lon": -82.46947550968889,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467072000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.654638930574237,
+    "lon": -83.37059834023378,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466640000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463356800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1464480000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.904652634112992,
+    "lon": -82.51175494333442,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1473552000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.505225141176176,
+    "lon": -82.70165521418541,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1467590400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.757351044216474,
+    "lon": -83.5073346597628,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466726400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.38716337402928,
+    "lon": -82.6193845071675,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1466899200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.656346753967473,
+    "lon": -82.64739870873996,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470096000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.10899322577668,
+    "lon": -83.05240402989992,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470182400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1468713600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.83203582001069,
+    "lon": -82.6207852170843,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1469577600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.00252224999093,
+    "lon": -82.69412239616334,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1465948800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 23.524385024882758,
+    "lon": -88.73825351323374,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470787200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.19325502879018,
+    "lon": -84.21992891463104,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470268800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1463875200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.45606609202338,
+    "lon": -86.96641826744121,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1470873600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477958400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.021992119776225,
+    "lon": -82.51426221460338,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478131200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.9704420717195,
+    "lon": -81.76950365402851,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477526400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477785600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.083497215625098,
+    "lon": -81.36387801906258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479427200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.31388009504164,
+    "lon": -82.79847529791088,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478822400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.42991587799288,
+    "lon": -85.48753853851476,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477612800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.70638424875263,
+    "lon": -82.22643529867479,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479168000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.27591389072215,
+    "lon": -82.91569472346407,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481673600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.649336242261434,
+    "lon": -82.19777076718984,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481846400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.202100385042677,
+    "lon": -82.9003569483648,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481241600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.76819145449436,
+    "lon": -82.77778681002323,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481155200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.9812054427793,
+    "lon": -82.48773376552569,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481500800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.68080115126318,
+    "lon": -82.7686471769531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478908800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.413923855903946,
+    "lon": -82.64869936856493,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478044800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.726558390573487,
+    "lon": -82.29550331271562,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482624000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.894767622464148,
+    "lon": -82.5117299308115,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478304000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.03930898421267,
+    "lon": -81.74465905813784,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478563200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.953005189204614,
+    "lon": -80.09480465219367,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481932800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.743440906984848,
+    "lon": -82.6016755297873,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478649600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478995200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.417418669652726,
+    "lon": -81.87900916787218,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486339200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478476800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.953005189204614,
+    "lon": -80.09480465219367,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480723200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.696553222337506,
+    "lon": -81.4653994859491,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480377600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.72167291394876,
+    "lon": -82.42345217722392,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480464000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.400587966541178,
+    "lon": -85.80291542121621,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483401600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.90467264413132,
+    "lon": -82.5117299308115,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480896000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.450730386748674,
+    "lon": -81.54909191426627,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480032000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.647075053049747,
+    "lon": -82.66085553132397,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484265600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483228800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.632679712746683,
+    "lon": -82.69720395841183,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480204800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482019200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486166400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.224252657947257,
+    "lon": -82.83649057010184,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486080000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.555495625932778,
+    "lon": -82.69412239616334,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483920000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484784000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486252800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485043200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.720065141726362,
+    "lon": -81.42687995784281,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484697600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.84344160276542,
+    "lon": -82.56225554546013,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485648000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.7962005684199,
+    "lon": -84.92327848275382,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483056000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483488000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483315200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.943306144415693,
+    "lon": -84.60572149538893,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487203200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.3629980387303,
+    "lon": -82.68601828693792,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492473600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.49399749220613,
+    "lon": -81.95292664072046,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492646400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.345565243577205,
+    "lon": -81.8271048549744,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491955200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.511859589768953,
+    "lon": -81.349540750276,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490832000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.119228329762368,
+    "lon": -86.2937472525304,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492214400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.87015427248074,
+    "lon": -81.706091506635,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491264000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.91547812201942,
+    "lon": -82.52323576365802,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492819200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.921142994469882,
+    "lon": -82.52870353570124,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491091200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.278131014566924,
+    "lon": -82.54807135374551,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491696000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492300800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488758400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487980800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.09625889807167,
+    "lon": -80.65558894597069,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491004800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.018692575070077,
+    "lon": -81.02844496893785,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489017600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.83203582001069,
+    "lon": -82.6207852170843,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1493078400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.68381763784137,
+    "lon": -80.83649765939799,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488412800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.708284083827113,
+    "lon": -82.78446819766418,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492732800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.909458985807102,
+    "lon": -85.44131510586624,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487894400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490486400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.439987068817935,
+    "lon": -82.62766870655801,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491350400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.684153893234228,
+    "lon": -82.1158292262686,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491868800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.350823738270098,
+    "lon": -81.4612833990619,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489276800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.9704420717195,
+    "lon": -81.76950365402851,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488844800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.84483535163905,
+    "lon": -82.27971230811107,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488240000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.87015427248074,
+    "lon": -81.706091506635,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487808000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.84193996964576,
+    "lon": -81.65414517205129,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487289600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.068334741581808,
+    "lon": -80.42076990343675,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490659200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.393620519916873,
+    "lon": -80.71191750262798,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489881600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.356108460245505,
+    "lon": -85.68854043854671,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486944000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491523200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491436800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.68381763784137,
+    "lon": -80.83649765939799,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490227200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492992000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.9561426521147,
+    "lon": -84.5982176910302,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485216000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.98829416427317,
+    "lon": -81.2078689290764,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490745600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.354183569537362,
+    "lon": -82.59207065947439,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486512000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486857600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491177600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.943306144415693,
+    "lon": -84.60572149538893,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492041600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490400000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.185264019710807,
+    "lon": -80.84816657540466,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490918400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.73238730335855,
+    "lon": -82.76401082635164,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492128000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492905600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.584939553243423,
+    "lon": -82.6522251555947,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486771200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489363200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.90467264413132,
+    "lon": -82.5117299308115,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484352000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.954276791176518,
+    "lon": -82.88643488961702,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484179200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.84193996964576,
+    "lon": -81.65414517205129,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490140800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.7610598813141,
+    "lon": -82.48238205245215,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492560000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.92108096276555,
+    "lon": -82.52863850206255,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491609600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.696553222337506,
+    "lon": -81.4653994859491,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487030400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1492387200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.018692575070077,
+    "lon": -81.02844496893785,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486598400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490572800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1491782400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.67362855776108,
+    "lon": -82.45532133408088,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488499200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.747881157464118,
+    "lon": -82.72409158861373,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489708800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.14603804871408,
+    "lon": -83.215136528134,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488326400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489536000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489968000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.31966394217466,
+    "lon": -85.68924679629475,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489622400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.84214094294038,
+    "lon": -82.82391819701888,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487548800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.83801885326347,
+    "lon": -82.44775950023731,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485561600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1493164800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.207252997138827,
+    "lon": -81.01554642953447,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485388800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.018692575070077,
+    "lon": -81.02844496893785,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485475200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.667318315871103,
+    "lon": -82.60446294239217,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482278400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.740375437677518,
+    "lon": -81.39916590762468,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481587200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.525789694987342,
+    "lon": -81.8235110334507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480550400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.974187012855694,
+    "lon": -80.98405546461402,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481760000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.645041022383506,
+    "lon": -82.6462981512565,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480291200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 30.439323604787877,
+    "lon": -81.66265848744669,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481328000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.86444529371088,
+    "lon": -82.3159306690006,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482105600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479600000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.05025557670405,
+    "lon": -80.91597094880184,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478217600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.72122268529878,
+    "lon": -82.19719047234153,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480636800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.855900961923712,
+    "lon": -82.62034499344348,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482364800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.436565334099413,
+    "lon": -82.61452204141649,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481068800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.720065141726362,
+    "lon": -81.42687995784281,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482969600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1481414400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.84193996964576,
+    "lon": -81.65414517205129,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485302400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480809600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.68832300710169,
+    "lon": -82.54184519833814,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479772800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.85697759231167,
+    "lon": -81.68007831876689,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1480982400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.90467264413132,
+    "lon": -82.5117299308115,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477699200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.842567202463208,
+    "lon": -82.16498714688332,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482710400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.629316050623725,
+    "lon": -83.62639501887355,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479686400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.655160152541896,
+    "lon": -82.63309145605996,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484870400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.81953248170687,
+    "lon": -82.67317877838359,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485129600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.831164378532172,
+    "lon": -82.67000917162274,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484524800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.964362904373004,
+    "lon": -82.57335817384721,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479513600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.84483535163905,
+    "lon": -82.27971230811107,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482796800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.58546386120879,
+    "lon": -82.23619024412531,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487721600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.996448298544383,
+    "lon": -81.00636677534858,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487635200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.247236267151326,
+    "lon": -85.71898887438951,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489104000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484611200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490313600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.556136951121196,
+    "lon": -82.69676473505614,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488585600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486684800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488153600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.819629530943285,
+    "lon": -80.4581888729805,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484956800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.391112291473526,
+    "lon": -82.61978470969258,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483574400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.69228197158673,
+    "lon": -82.62008486212586,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485993600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.14171977485186,
+    "lon": -83.15235470063467,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484006400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.965303381709678,
+    "lon": -82.64649825251902,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488931200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.041384994533225,
+    "lon": -82.43161931843873,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484092800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.72584202781622,
+    "lon": -82.46347246641773,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482192000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.001901063073838,
+    "lon": -81.41417351634212,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1482883200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 29.153602798270672,
+    "lon": -81.01503817139964,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483660800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1484438400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1483833600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.03754000222624,
+    "lon": -82.87431374546918,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1486425600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485734400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.809924610538626,
+    "lon": -82.84993438574229,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478390400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.987150456565626,
+    "lon": -82.73309315212566,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1478736000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.9704420717195,
+    "lon": -81.76950365402851,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1477872000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.40380481088793,
+    "lon": -81.19396187892144,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479340800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.84034307446462,
+    "lon": -82.68347699950104,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479254400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 27.030496474637335,
+    "lon": -83.37244927880054,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479859200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.696553222337506,
+    "lon": -81.4653994859491,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485820800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.456871670941798,
+    "lon": -82.00904208917166,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487376000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.001901063073838,
+    "lon": -81.41417351634212,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1479081600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 25.740375437677518,
+    "lon": -81.39916590762468,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1490054400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.726975602261565,
+    "lon": -82.1362395733906,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1489449600000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.019300841265004,
+    "lon": -81.76445509424359,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488067200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1488672000000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 24.946973216333344,
+    "lon": -81.4942140936507,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487116800000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 28.210427649514983,
+    "lon": -80.67589924300096,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1487462400000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}, {
+    "lat": 26.47538805752596,
+    "lon": -82.24429435227161,
+    "UVLevel": "none",
+    "SeaSpeedLeveL": "none",
+    "time": 1485907200000,
+    "HABLevel": "none",
+    "dangerLevel": "none"
+}]
